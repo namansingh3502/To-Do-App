@@ -139,6 +139,6 @@ STATICFILES_DIRS = [
 CORS_ORIGIN_WHITELIST = [
 
     "http://localhost:3000",
-    "https://dj-react-to-do-app.herokuapp.com/"
+    "https://dj-react-to-do-app.herokuapp.com"
 
 ]
