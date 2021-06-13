@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-ffy_+t(w30guf7*-s)z(=h!bfgx#e8%(7-yo@$p*66a7%v$+y%
 DEBUG = True
 
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'dj-react-to-do-app.herokuapp.com']
 
 
 # Application definition
