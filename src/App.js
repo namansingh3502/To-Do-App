@@ -48,7 +48,7 @@ class App extends React.Component {
   fetchTasks(){
     console.log('Fetching...')
 
-    fetch('https://dj-react-to-do-app.herokuapp.comapi/task-list/')
+    fetch('https://dj-react-to-do-app.herokuapp.com/api/task-list/')
     .then(response => response.json())
     .then(data =>
       this.setState({
