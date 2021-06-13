@@ -6,3 +6,5 @@ djangorestframework
 pytz
 sqlparse
 whitenoise
+django_heroku
+
