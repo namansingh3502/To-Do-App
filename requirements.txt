@@ -1,7 +1,6 @@
 django
 gunicorn
 asgiref
-Django
 django-cors-headers
 djangorestframework
 pytz
